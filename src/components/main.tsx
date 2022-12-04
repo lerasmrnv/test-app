@@ -33,6 +33,7 @@ export const Main = () => {
     }
 
     const handleSave = (id: number, updatedNote: string) => {
+        // eslint-disable-next-line array-callback-return
         notes.map((note:INote) => {
             if(note.id === id) {
                 return {id, content: updatedNote};
