@@ -13,8 +13,4 @@ netlify: https://638cf3de7f0361000800d6cd--bright-bombolone-ae96db.netlify.app/
 
 
 Пример выполнения: 
-Ввод заметок: 
-![image](https://user-images.githubusercontent.com/55638191/205556835-27b1f9c0-a22c-4afa-a5b0-2a8269fa8d9c.png)
-
-Применение фильтра:
-![image](https://user-images.githubusercontent.com/55638191/205556862-1f2a75e2-b6ae-4444-b534-f9dbc1cfeb16.png)
+![vjljlVlbvX](https://user-images.githubusercontent.com/55638191/205558229-4549cbeb-2d63-44b2-93e9-f23047be8207.gif)
